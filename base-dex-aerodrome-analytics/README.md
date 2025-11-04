@@ -54,3 +54,16 @@ This example references **BaseScan** (or other Base chain explorers/APIs) as the
 
 ## License
 MIT — feel free to adapt.
+
+
+
+## 🌐 Deployment
+
+**Network:** Base Mainnet  
+**Contract Address:** https://base.blockscout.com/address/0x994537D1e646D0F62476A0820Bc76460E594c738?tab=contract 
+**Compiler:** Solidity 0.8.17  
+**Deployed via:** Remix + MetaMask  
+**Deployed by:** 0x0B8F7389369487786b5a6Fe9501241Be77E951dc  
+
+Verified on **BaseScan** ✅ https://basescan.org/tx/0x74e28dd295a06ed457a2cead5a830b81e19f4f8b11e3d36499a134785736322b
+
