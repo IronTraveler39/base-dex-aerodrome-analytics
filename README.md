@@ -54,7 +54,7 @@ This example references **BaseScan** (or other Base chain explorers/APIs) as the
 
 ## License
 MIT — feel free to adapt.
-LFG
+
 
 
 ## 🌐 Deployment
