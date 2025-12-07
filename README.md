@@ -48,7 +48,7 @@ base-dex-aerodrome-analytics/
 ---
 
 ## Attribution / Data source
-This example references **BaseScan** (or other Base chain explorers/APIs) as the off-chain data source for DEX volumes (Aerodrome). Replace the placeholder API endpoint in `scripts/report_example.js` with the real one you use. LFG
+This example references **BaseScan** (or other Base chain explorers/APIs) as the off-chain data source for DEX volumes (Aerodrome). Replace the placeholder API endpoint in `scripts/report_example.js` with the real one you use. 
 
 ---
 
